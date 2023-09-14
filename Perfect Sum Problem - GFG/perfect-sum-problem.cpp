@@ -10,15 +10,14 @@ class Solution{
 	int solve(int a[], int i, int sum, int &n, vector<vector<int>>&dp)
 	{
 	    if (i >= n) {
-	        if(sum == 0) return 1;
-             return 0;
+            if (sum == 0) return 1;
+            return 0;
 	    }
-	    //if (sum == 0) return 1;
 	    if (sum < 0) return 0;
 	    if (dp[i][sum] != -1) return dp[i][sum];
-	    int take = solve(a, i+1, sum-a[i], n, dp)%mod;
-	    int ntake = solve(a, i+1, sum, n, dp)%mod;
-	    return dp[i][sum] = (take + ntake)%mod;
+	    int take = solve(a, i+1, sum-a[i], n, dp) % mod;
+	    int ntake = solve(a, i+1, sum, n, dp) % mod;
+	    return dp[i][sum] = (take + ntake) % mod;
 	}
 	int perfectSum(int a[], int n, int sum)
 	{
