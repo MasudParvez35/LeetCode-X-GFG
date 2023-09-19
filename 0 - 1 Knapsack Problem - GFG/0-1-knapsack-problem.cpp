@@ -17,7 +17,7 @@ class Solution
             take = val[i] + dfs(w-wt[i],wt,val,i-1,dp);
             return dp[i][w] = max(take, ntake);
         }
-        else return dfs(w,wt,val,i-1,dp);
+        else return dp[i][w] = dfs(w,wt,val,i-1,dp);
     }
     int knapSack(int w, int wt[], int val[], int n) 
     { 
