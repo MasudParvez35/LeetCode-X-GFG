@@ -7,22 +7,18 @@ using namespace std;
 class Solution
 {
     public:
-    int dfs(int w, int wt[], int val[], int i, vector<vector<int>>&dp)
+    int solve(int val[], int wt[], int i, int w, vector<vector<int>>&dp)
     {
-        if (i < 0 or w <= 0) return 0;
+        if (i < 0) return 0;
         if (dp[i][w] != -1) return dp[i][w];
-        int take = 0, ntake = 0;
-        if (wt[i] <= w) {
-            ntake = dfs(w,wt,val,i-1,dp);
-            take = val[i] + dfs(w-wt[i],wt,val,i-1,dp);
-            return dp[i][w] = max(take, ntake);
-        }
-        else return dp[i][w] = dfs(w,wt,val,i-1,dp);
+        int ntake = solve(val,wt,i-1,w,dp), take = 0;
+        if (wt[i] <= w) take = val[i] + solve(val,wt,i-1,w-wt[i],dp);
+        return dp[i][w] = max(take, ntake);
     }
     int knapSack(int w, int wt[], int val[], int n) 
     { 
-        vector<vector<int>> dp(n+1, vector<int>(w+1,-1));
-        return dfs(w,wt,val,n-1,dp);
+        vector<vector<int>> dp(n+1,vector<int>(w+1,-1));
+        return solve(val,wt,n-1,w,dp);
     }
 };
 
