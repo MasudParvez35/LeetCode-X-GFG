@@ -7,18 +7,18 @@ typedef long long int ll;
 class Solution
 {
     public:
-    int dfs(int a[], int i, vector<int>&dp)
+    int solve(int a[], int i, vector<int>&dp)
     {
         if (i < 0) return 0;
         if (dp[i] != -1) return dp[i];
-        int ntake = dfs(a,i-1,dp);
-        int take = a[i] + dfs(a,i-2,dp);
-        return dp[i] = max(take,ntake);
+        int ntake = solve(a,i-1,dp);
+        int take = a[i] + solve(a,i-2,dp);
+        return dp[i] = max(take, ntake);
     }
     int FindMaxSum(int a[], int n)
     {
         vector <int> dp(n+1,-1);
-        return dfs(a,n-1,dp);
+        return solve(a,n-1,dp);
     }
 };
 
