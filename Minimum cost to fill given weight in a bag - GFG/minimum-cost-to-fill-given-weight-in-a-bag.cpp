@@ -15,7 +15,7 @@ class Solution{
 	    if (i < 0 or w < 0) return 1e9;
 	    if (dp[i][w] != -1) return dp[i][w];
 	    int ntake = dfs(c,i-1,w,dp), take = 1e9;
-	    if (i+1 <= w and c[i] != -1) take = c[i] + dfs(c,i,w-(i+1),dp);
+	    if (c[i] != -1) take = c[i] + dfs(c,i,w-(i+1),dp);
 	    return dp[i][w] = min(take, ntake);
 	}
 	int minimumCost(int c[], int n, int w) 
