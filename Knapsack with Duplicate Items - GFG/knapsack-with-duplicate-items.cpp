@@ -11,10 +11,11 @@ class Solution{
 public:
     int dfs(int val[], int wt[], int i, int w, vector<vector<int>>&dp)
     {
-        if (i < 0) return 0;
+        if (w < 0) return -1e9;
+        if (i < 0 or w == 0) return 0;
         if (dp[i][w] != -1) return dp[i][w];
-        int ntake = dfs(val,wt,i-1,w,dp), take = 0;
-        if (wt[i] <= w) take = val[i] + dfs(val,wt,i,w-wt[i],dp);
+        int ntake = dfs(val,wt,i-1,w,dp);
+        int take = val[i] + dfs(val,wt,i,w-wt[i],dp);
         return dp[i][w] = max(take, ntake);
     }
     int knapSack(int N, int W, int val[], int wt[])
