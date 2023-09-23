@@ -11,19 +11,16 @@ class Solution{
 public:
     int dfs(int val[], int wt[], int i, int w, vector<vector<int>>&dp)
     {
-        if (i < 0 or w <= 0) return 0;
+        if (i < 0) return 0;
         if (dp[i][w] != -1) return dp[i][w];
-        if (wt[i] <= w) {
-            int take = val[i] + dfs(val,wt,i,w-wt[i],dp);
-            int ntake = dfs(val,wt,i-1,w,dp);
-            return dp[i][w] = max(take,ntake);
-        }
-        else return dp[i][w] = dfs(val,wt,i-1,w,dp);
+        int ntake = dfs(val,wt,i-1,w,dp), take = 0;
+        if (wt[i] <= w) take = val[i] + dfs(val,wt,i,w-wt[i],dp);
+        return dp[i][w] = max(take, ntake);
     }
-    int knapSack(int n, int w, int val[], int wt[])
+    int knapSack(int N, int W, int val[], int wt[])
     {
-        vector<vector<int>> dp(n+1, vector<int>(w+1,-1));
-        return dfs(val,wt,n-1,w,dp);
+        vector <vector<int>> dp(N+1, vector<int>(W+1,-1));
+        return dfs(val,wt,N-1,W,dp);
     }
 };
 
