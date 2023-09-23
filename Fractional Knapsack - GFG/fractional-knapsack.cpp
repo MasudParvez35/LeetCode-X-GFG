@@ -28,13 +28,14 @@ class Solution
         sort(vp.begin(),vp.end(),greater<pair<double,pair<int,int>>>());
         for(int i = 0 ; i < n ; ++i)
         {
-            if(W>=vp[i].second.second){
+            if(W>=vp[i].second.second) {
                 ans+=vp[i].second.first;
                 W-=vp[i].second.second;
             }
             else
             {
-                ans = ans + ((W/(double)vp[i].second.second))*vp[i].second.first;
+                //ans += ((W/(double)vp[i].second.second))*vp[i].second.first;
+                ans += vp[i].first * W;
                 break;
             }
         }
