@@ -21,24 +21,25 @@ class Solution
         for(int i = 0 ; i < n ; ++i){
             int v = arr[i].value;
             int w = arr[i].weight;
-            vp.push_back({double(v*1.0/w*1.0),{v,w}});
+            double x = double((v*1.0)/(w*1.0));
+            vp.push_back({x,{v,w}});
         }
-        //sort(vp.begin(),vp.end(),greater<pair<double,pair<int,int>>>());
-        sort(vp.rbegin(),vp.rend());
+        //sort(vp.rbegin(),vp.rend());
+        sort(vp.begin(),vp.end(),greater<pair<double,pair<int,int>>>());
         for(int i = 0 ; i < n ; ++i)
         {
             if(W>=vp[i].second.second){
                 ans+=vp[i].second.first;
                 W-=vp[i].second.second;
             }
-            else{
-            ans = ans + ((W/(double)vp[i].second.second))*vp[i].second.first;
-            break;
+            else
+            {
+                ans = ans + ((W/(double)vp[i].second.second))*vp[i].second.first;
+                break;
             }
         }
         return ans;
     }
-        
 };
 
 
