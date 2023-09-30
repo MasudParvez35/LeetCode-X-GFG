@@ -57,8 +57,8 @@ namespace DriverCode
         public void booleanMatrix(List<List<int>> v)
         {
             int n = v.Count, m = v[0].Count;
-            int[] row = new int[n+5];
-            int[] col = new int[m+5];
+            int[] row = new int[n+1];
+            int[] col = new int[m+1];
     
             for (int i = 0; i < n; i++)
             {
