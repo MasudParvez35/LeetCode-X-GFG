@@ -56,29 +56,27 @@ namespace DriverCode
     {
         public void booleanMatrix(List<List<int>> v)
         {
-           int m = v.Count;
-            int n = v[0].Count;
-            int[] R = new int[m];
-            int[] C = new int[n];
+            int n = v.Count, m = v[0].Count;
+            int[] row = new int[n+5];
+            int[] col = new int[m+5];
     
-            // Initialize R and C arrays
-            for (int i = 0; i < m; i++)
+            for (int i = 0; i < n; i++)
             {
-                for (int j = 0; j < n; j++)
+                for (int j = 0; j < m; j++)
                 {
                     if (v[i][j] == 1)
                     {
-                        R[i] = 1;
-                        C[j] = 1;
+                        row[i] = 1;
+                        col[j] = 1;
                     }
                 }
             }
     
-            for (int i = 0; i < m; i++)
+            for (int i = 0; i < n; i++)
             {
-                for (int j = 0; j < n; j++)
+                for (int j = 0; j < m; j++)
                 {
-                    if (R[i] == 1 || C[j] == 1)
+                    if (row[i] == 1 || col[j] == 1)
                     {
                         v[i][j] = 1;
                     }
@@ -87,6 +85,7 @@ namespace DriverCode
         }
     }
 }
+
 
 //{ Driver Code Starts.
 // } Driver Code Ends
