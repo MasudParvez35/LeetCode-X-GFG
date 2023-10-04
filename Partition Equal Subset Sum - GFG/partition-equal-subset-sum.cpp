@@ -9,26 +9,28 @@ using namespace std;
 
 class Solution{
 public:
-    bool solve(int a[], int i, int sm, int n, vector<vector<int>>&dp)
+    bool dfs(int a[], int n, int i, int sm, vector<vector<int> >&dp)
     {
-        if (i >= n) {
-            if (sm == 0) return 1;
-            else return 0;
-        }
+        if (sm == 0) return 1;
         if (sm < 0) return 0;
+        if (i == n) {
+            return sm == 0;
+        }
         if (dp[i][sm] != -1) return dp[i][sm];
-        int t = solve(a,i+1,sm-a[i],n,dp);
-        int nt = solve(a,i+1,sm,n,dp);
-        return dp[i][sm] = t | nt;
+        int ntake = dfs(a,n,i+1,sm,dp), take = 0;
+        if (a[i] <= sm) {
+            take = dfs(a,n,i+1,sm-a[i],dp);
+        }
+        return dp[i][sm] = take | ntake;
     }
     int equalPartition(int n, int a[])
     {
         int sm = 0;
         for (int i = 0; i < n; i++) sm += a[i];
-        if (sm % 2) return 0;
+        if (sm % 2) return false;
         sm /= 2;
-        vector<vector<int>> dp(n+1, vector<int>(sm+1,-1));
-        return solve(a,0,sm,n,dp);
+        vector<vector<int>> dp(n+1, vector<int>(sm+1, -1));
+        return dfs(a,n,0,sm,dp);
     }
 };
 
