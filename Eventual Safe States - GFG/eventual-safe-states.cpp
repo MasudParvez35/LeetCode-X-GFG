@@ -17,7 +17,6 @@ class Solution {
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < adj[i].size(); j++) {
                 ar[adj[i][j]].push_back(i);
-                //in[adj[i][j]]++;
                 in[i]++;
             }
         }
