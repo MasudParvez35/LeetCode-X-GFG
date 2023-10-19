@@ -7,34 +7,23 @@ using namespace std;
 class Solution
 {
 	public:
-	//Function to find the level of node X.
+	void dfs(int node, vector<int> adj[], vector <int>&dist, vector <int>&vis)
+	{
+	    vis[node] = 1;
+	    for (int child : adj[node]) {
+	        if (!vis[child]) {
+	            dist[child] = dist[node]+1;
+	            dfs(child,adj,dist,vis);
+	        }
+	    }
+	}
 	int nodeLevel(int n, vector<int> adj[], int x) 
 	{
-	    vector <int> vis(n+1);
-	    queue <int> q;
-	    q.push(0);
-	    int lev = 0;
+	    vector <int> dist(n+1), vis(n+1);
+	    dfs(0,adj,dist,vis);
 	    if (x == 0) return 0;
-	    vis[0] = 1;
-	    while(q.size())
-	    {
-	        int len = q.size();
-	        for (int i = 0; i < len; i++)
-	        {
-	            int node = q.front();
-	            q.pop();
-	            for (int child : adj[node])
-	            {
-	                if (!vis[child]) {
-    	                if (child == x) return lev+1;
-    	                q.push(child);
-    	                vis[child] = 1;
-	                }
-	            }
-	        }
-	        lev++;
-	    }
-	    return -1;
+	    if (dist[x] == 0) return -1;
+	    else return dist[x];
 	}
 };
 
