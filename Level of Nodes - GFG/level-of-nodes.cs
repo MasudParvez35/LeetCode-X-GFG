@@ -49,7 +49,7 @@ namespace DriverCode
 
 class Solution
 {
-    public void dfs(int node, List<List<int>> adj, List <int>dist, List <int>vis)
+    public void dfs(int node, List<List<int>> adj, int[] dist, int[] vis)
 	{
 	    vis[node] = 1;
         foreach (int child in adj[node])
@@ -63,14 +63,8 @@ class Solution
 	}
     public int nodeLevel(int n, List<List<int>> adj, int x)
     {
-        List <int> dist = new List <int>();
-        List <int> vis = new List <int>();
-
-        for (int i = 0; i <= n; i++)
-        {
-            dist.Add(0);
-            vis.Add(0);
-        }
+        int[] dist = new int[n+1];
+        int[] vis = new int[n+1];
 
         dfs(0, adj, dist, vis);
 
