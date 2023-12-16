@@ -10,15 +10,12 @@ public class Solution {
                 b = a;
             }
             else {
-                if (b % 2 == 0) {
-                    ans++;
-                    b /= 2;
+                if (b % 2 != 0) 
+                {
+                    ans++; b++;
                 }
-                else {
-                    ans += 2;
-                    b /= 2;
-                    b++;
-                }
+                b /= 2;
+                ans++;
             }
         }
         return ans;
