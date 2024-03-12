@@ -2,9 +2,8 @@ public class Solution {
     public long MaximumHappinessSum(int[] a, int k) 
     {
         long ans = 0;
-        Array.Sort(a, (x,y) => {
-            return y-x;
-        });
+        Array.Sort(a);
+        Array.Reverse(a);
         for (int i = 0; i < k; i++) {
             Console.Write(a[i] + " ");
         }
