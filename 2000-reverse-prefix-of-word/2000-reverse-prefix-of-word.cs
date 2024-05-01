@@ -1,11 +1,18 @@
 public class Solution {
-    public string ReversePrefix(string s, char c) 
+    public void Swap(ref char a, ref char b)
     {
-        int j = s.IndexOf(c);
-        Console.WriteLine(j);
-        string ss = "";
-        for (int i = j; i >= 0; i--) ss += s[i];
-        for (int i = j+1; i < s.Length; i++) ss += s[i];
-        return ss;
+        char temp = a;
+        a = b;
+        b = temp;
+    }
+    public string ReversePrefix(string ss, char c) 
+    {
+        int l = 0, r = ss.IndexOf(c);
+        char[] s = ss.ToCharArray();
+        while (l < r)
+        {
+            Swap(ref s[l++], ref s[r--]);
+        }
+        return new string(s);
     }
 }
