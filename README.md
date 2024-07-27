@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0169-majority-element) |
 ## Database
 |  |
 | ------- |
@@ -31,4 +33,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1908-recyclable-and-low-fat-products) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
