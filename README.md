@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0040-combination-sum-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
