@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0189-rotate-array) |
+| [0416-partition-equal-subset-sum](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0518-coin-change-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0416-partition-equal-subset-sum](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0518-coin-change-ii) |
 ## Backtracking
 |  |
