@@ -1,23 +1,24 @@
 class Solution {
 public:
     vector<vector<int>> ans;
-    void solve(vector<int>&a, int t, int i, int sm, vector<int>&v)
+    void dfs(vector<int>&a, vector<int>&v, int i, int sm, int t)
     {
         if (sm == t) {
-            ans.push_back(v); return;
+            ans.push_back(v);
+            return;
         }
         if (i >= a.size() or sm > t) return;
         v.push_back(a[i]);
-        solve(a, t, i+1, sm+a[i], v);
+        dfs(a,v,i+1,sm+a[i],t);
         v.pop_back();
-        while(i < a.size()-1 and a[i] == a[i+1]) i++;
-        solve(a, t, i+1, sm, v);
+        while(i < a.size()-1 && a[i] == a[i+1]) i++;
+        dfs(a,v,i+1,sm,t);
     }
     vector<vector<int>> combinationSum2(vector<int>& a, int t) 
     {
-        sort(a.begin(), a.end());
+        sort(begin(a), end(a));
         vector <int> v;
-        solve(a,t,0,0,v);
+        dfs(a,v,0,0,t);
         return ans;
     }
 };
