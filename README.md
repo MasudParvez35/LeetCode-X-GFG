@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0189-rotate-array) |
+| [0322-coin-change](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0518-coin-change-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0624-maximum-distance-in-arrays) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0518-coin-change-ii) |
 ## Backtracking
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0624-maximum-distance-in-arrays) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
