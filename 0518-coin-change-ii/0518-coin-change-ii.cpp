@@ -1,21 +1,23 @@
 class Solution {
 public:
-    int change(int m, vector<int>& v) {
-        int n = v.size();
-        int dp[n+1][m+1];
-        for (int i = 0; i <= n; i++) dp[i][0] = 1;
-        for (int j = 0; j <= m; j++) dp[0][j] = 0;
-        
-        for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= m; j++) {
-                if (v[i-1] > j) {
-                    dp[i][j] = dp[i-1][j];
-                }
-                else {
-                    dp[i][j] = dp[i-1][j] + dp[i][j-v[i-1]];
-                }
-            }
+    int dfs(vector<int>&a, int i, int t, vector<vector<int>>&dp)
+    {
+        if (i < 0 || t < 0) return 0;
+        if (i == 0) {
+            if (t % a[i] == 0) return 1;
+            else return 0;
         }
-        return dp[n][m];
+        if (dp[i][t] != -1) return dp[i][t];
+        int take = dfs(a, i, t-a[i], dp);
+        int ntake = dfs(a, i-1, t, dp);
+
+        return dp[i][t] = take + ntake;
+    }
+    int change(int t, vector<int>& a) 
+    {
+        int n = a.size();
+        vector<vector<int>>dp(n+1, vector<int>(t+1, -1));
+        int ans = dfs(a,n-1,t,dp);
+        return ans;
     }
 };
