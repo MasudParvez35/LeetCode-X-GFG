@@ -1,18 +1,13 @@
 public class Solution {
     public int FindComplement(int num) 
     {
-        int ans = 0;
-        string s = "";
+        int i = 0, ans = 0;
         while(num > 0)
         {
-            int rem = Math.Abs(num%2-1);
-            s += rem;
-            num /= 2;
-        }
-        for (int i = 0; i < s.Length; i++) {
-            if (s[i] == '1') {
-                ans += (int)Math.Pow(2,i);
-            }
+            int rem = num%2;
+            if (rem == 0) ans += (int)Math.Pow(2,i);
+            num = num >> 1;
+            i++;
         }
         return ans;
     }
