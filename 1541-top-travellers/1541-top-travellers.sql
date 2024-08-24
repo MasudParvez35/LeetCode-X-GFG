@@ -1,6 +1,6 @@
-# Write your MySQL query statement below
-select u.name, COALESCE(Sum(r.distance),0) as travelled_distance
+/* Write your T-SQL query statement below */
+select u.name, ISNULL(Sum(r.distance),0) as travelled_distance
 from Users u left join Rides r 
 on u.id = r.user_id
 group by u.id, u.name
-order by travelled_distance desc, name asc;
+order by travelled_distance desc, u.name asc;
