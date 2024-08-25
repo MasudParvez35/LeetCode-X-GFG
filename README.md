@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0189-rotate-array) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0145-binary-tree-postorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
