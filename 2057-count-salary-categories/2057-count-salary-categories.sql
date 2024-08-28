@@ -1,4 +1,4 @@
-/* Write your T-SQL query statement below */
+# Write your MySQL query statement below
 select 'Low Salary' as category, count(*) as accounts_count
 from Accounts
 where income < 20000
