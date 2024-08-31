@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0189-rotate-array) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1642-water-bottles](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1642-water-bottles) |
 ## Simulation
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Graph
 |  |
