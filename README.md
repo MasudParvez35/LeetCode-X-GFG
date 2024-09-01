@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0021-merge-two-sorted-lists) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Graph
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1325-path-with-maximum-probability) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
