@@ -28,8 +28,16 @@ public:
             }
             tail = tail->next;
         }
-        // Append the remaining list
-        tail->next = list1 ? list1 : list2;
+        while(list1) {
+            tail->next = list1;
+            tail = tail->next;
+            list1 = list1->next;
+        }
+        while(list2) {
+            tail->next = list2;
+            tail = tail->next;
+            list2 = list2->next;
+        }
         return ans->next;
     }
 };
