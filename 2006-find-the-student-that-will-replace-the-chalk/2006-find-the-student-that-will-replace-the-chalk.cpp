@@ -2,19 +2,18 @@ class Solution {
 public:
     int chalkReplacer(vector<int>& a, int k) 
     {
-        long long sum = 0;
-        for (int i = 0; i < a.size(); i++) {
-            sum += a[i];
-        }
-        k %= sum;
-        cout << k << endl;
-        sum = 0;
-        for (int i = 0; i < a.size(); i++) {
-            k -= a[i];
-            if (k <= 0) {
+        int n = a.size();
+        long long sm = 0;
+        for (int i = 0; i < n; i++) sm += a[i];
+        int x = k % sm;
+        for (int i = 0; i < n; i++) {
+            if (a[i] > x) {
                 return i;
             }
+            else {
+                x -= a[i];
+            }
         }
-        return 0;
+        return -1;
     }
 };
