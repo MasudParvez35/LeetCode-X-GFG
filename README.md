@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1908-recyclable-and-low-fat-products](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1948-rearrange-products-table) |
 | [2057-count-salary-categories](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2057-count-salary-categories) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Hash Table
 |  |
 | ------- |
