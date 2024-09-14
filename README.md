@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0078-subsets) |
 | [0476-number-complement](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Greedy
 |  |
