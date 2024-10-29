@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2727-number-of-senior-citizens) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0518-coin-change-ii) |
 | [1250-longest-common-subsequence](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1250-longest-common-subsequence) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Matrix
+|  |
+| ------- |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 <!---LeetCode Topics End-->
