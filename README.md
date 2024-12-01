@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0518-coin-change-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0624-maximum-distance-in-arrays) |
 | [1325-path-with-maximum-probability](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1325-path-with-maximum-probability) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0189-rotate-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0242-valid-anagram) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3291-find-if-array-can-be-sorted) |
 ## Database
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0242-valid-anagram) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
 |  |
