@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1642-water-bottles) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2232-adding-spaces-to-a-string](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2232-adding-spaces-to-a-string) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2232-adding-spaces-to-a-string](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2232-adding-spaces-to-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2727-number-of-senior-citizens](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2727-number-of-senior-citizens) |
