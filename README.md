@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2727-number-of-senior-citizens](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3291-find-if-array-can-be-sorted) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0242-valid-anagram) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3291-find-if-array-can-be-sorted) |
 ## Database
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0670-maximum-swap) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
