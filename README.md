@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0322-coin-change) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Stack
 |  |
 | ------- |
@@ -196,18 +197,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0145-binary-tree-postorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0145-binary-tree-postorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0145-binary-tree-postorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Linked List
 |  |
 | ------- |
