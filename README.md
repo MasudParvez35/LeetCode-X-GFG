@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0518-coin-change-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0624-maximum-distance-in-arrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0780-max-chunks-to-make-sorted) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0518-coin-change-ii) |
 | [1250-longest-common-subsequence](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1250-longest-common-subsequence) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
