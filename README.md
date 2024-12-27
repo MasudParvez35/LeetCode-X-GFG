@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0518-coin-change-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0624-maximum-distance-in-arrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0780-max-chunks-to-make-sorted) |
+| [1063-best-sightseeing-pair](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1063-best-sightseeing-pair) |
 | [1325-path-with-maximum-probability](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1325-path-with-maximum-probability) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0518-coin-change-ii) |
+| [1063-best-sightseeing-pair](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1250-longest-common-subsequence) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Backtracking
