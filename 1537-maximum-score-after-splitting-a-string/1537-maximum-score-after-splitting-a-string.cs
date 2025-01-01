@@ -1,23 +1,23 @@
 public class Solution {
     public int MaxScore(string s) 
     {
-        int ans = 0;
-        for (int mid = 0; mid < s.Length-1; mid++)
+        int n = s.Length, on = 0, ze = 0, ans = 0;
+        int[] one = new int[n];
+        int[] zero = new int[n];
+        for (int i = 0; i < n; i++) 
         {
-            int zero = 0, one = 0;
-            for (int left = 0; left <= mid; left++) {
-                if (s[left] == '0')
-                    zero++;
-            }
-
-            for (int right = mid+1; right < s.Length; right++) {
-                if (s[right] == '1')
-                    one++;
-            }
-
-            ans = Math.Max(ans, one+zero);
+            if (s[i] == '0')
+                ze++;
+            else 
+                on++;
+            
+            one[i] = on;
+            zero[i] = ze;
         }
-
+        for (int i = 0; i < n-1; i++)
+        {
+            ans = Math.Max(ans, zero[i]+(one[n-1]-one[i]));
+        }
         return ans;
     }
 }
