@@ -1,40 +1,26 @@
 class Solution {
 public:
-    bool isVowel(char c) {
-        if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u')
-            return true;
-        else 
-            return false;
+    bool vowel(char c) {
+        return c == 'a' or c == 'e' or c == 'i' or c == 'o' or c == 'u';
     }
-    bool check(string s)
+    vector<int> vowelStrings(vector<string>& a, vector<vector<int>>& b) 
     {
-        if (isVowel(s[0]) && isVowel(s.back()))
-            return true;
-        else 
-            return false;
-    }
-    vector<int> vowelStrings(vector<string>& s, vector<vector<int>>& q) 
-    {
-        int n = s.size();
-        vector <int> pre(n+1, 0), ans(q.size(), 0);
-        for (int i = 0; i < s.size(); i++)
+        int n = a.size(), len = b.size();
+        vector <int> v(n), ans(len), pre(n);
+        for (int i = 0; i < n; i++)
         {
-            if (check(s[i]) == true)
-                pre[i] = 1;
-            if (i)
-                pre[i] += pre[i-1];
+            string s = a[i];
+            if (vowel(s[0]) and vowel(s.back())) v[i] = 1;
         }
+        //for (auto i : v) cout << i << " "; cout << endl;
+        pre = v;
+        for (int i = 1; i < n; i++) pre[i] += pre[i-1];
+        //for (auto i : pre) cout << i << " "; cout << endl;
 
-        for (int i = 0; i < q.size(); i++) 
+        for (int i = 0; i < len; i++)
         {
-            int left = q[i][0]; 
-            int right = q[i][1];
-            int x;
-            if (left == 0)
-                x = pre[right];
-            else 
-                x = pre[right] - pre[left - 1]; 
-            ans[i] = x;
+            int l = b[i][0], r = b[i][1];
+            ans[i] = pre[r] - pre[l] + v[l];
         }
         return ans;
     }
