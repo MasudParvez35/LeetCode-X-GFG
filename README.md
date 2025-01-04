@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3291-find-if-array-can-be-sorted) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2727-number-of-senior-citizens) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Brainteaser
 |  |
 | ------- |
