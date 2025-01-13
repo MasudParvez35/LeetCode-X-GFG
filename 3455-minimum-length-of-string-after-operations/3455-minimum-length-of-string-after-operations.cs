@@ -13,15 +13,8 @@ public class Solution {
 
         foreach (var item in fre)
         {
-            var x = item.Value;
-            if (x % 2 == 0)
-                x--;
-            if (x >= 2)
-            {
-                ans -= x;
-                if (x % 2 == 1)
-                    ans++;
-            }
+            var value = item.Value;
+            ans -= (value%2 == 1) ? value-1 : value-2;
         }
 
         return ans;
