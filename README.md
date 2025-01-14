@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-average-selling-price](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1541-top-travellers) |
+| [1801-average-time-of-process-per-machine](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1908-recyclable-and-low-fat-products) |
