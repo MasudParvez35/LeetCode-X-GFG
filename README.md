@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0494-target-sum) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2358-number-of-ways-to-split-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2358-number-of-ways-to-split-array) |
