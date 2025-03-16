@@ -1,8 +1,8 @@
 public class Solution {
     public long RepairCars(int[] ranks, int cars) 
     {
-        long ans = int.MaxValue;
-        long left = 1, right = int.MaxValue;
+        long ans = long.MaxValue;
+        long left = 1, right = long.MaxValue;
         while(left <= right)
         {
             long mid = (left + right) / 2, count = 0;
