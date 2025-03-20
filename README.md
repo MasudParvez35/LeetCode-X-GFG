@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3429-special-array-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3291-find-if-array-can-be-sorted) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Greedy
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2358-number-of-ways-to-split-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String Matching
 |  |
 | ------- |
@@ -340,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0684-redundant-connection) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
