@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0189-rotate-array) |
+| [0768-partition-labels](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0242-valid-anagram) |
+| [0768-partition-labels](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0242-valid-anagram) |
+| [0768-partition-labels](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0768-partition-labels) |
 | [1250-longest-common-subsequence](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1502-construct-k-palindrome-strings) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1502-construct-k-palindrome-strings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
