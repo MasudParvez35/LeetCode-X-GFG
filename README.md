@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1656-count-good-triplets](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1656-count-good-triplets) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -364,5 +365,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
