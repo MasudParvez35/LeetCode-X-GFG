@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3291-find-if-array-can-be-sorted) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Database
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2727-number-of-senior-citizens) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
 |  |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/1502-construct-k-palindrome-strings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/MasudParvez35/LeetCode-X-GFG/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Breadth-First Search
 |  |
 | ------- |
